@@ -2,12 +2,10 @@
 ## javascript 1
 Detta är en kurs som ska lära oss javascript. 
 
-Nedan är en kort lista på kurskoder samt namn som vi läser nu. 
+Nedan är en kort lista på kurskoder vi läser nu. samt tillhörande tabell
 
 * Javascript.
-⋅⋅* DT084G
 * Datateknik 1
-⋅⋅* DT057G
 
 
 | Kursnamn        | Kod           | Poäng  |
