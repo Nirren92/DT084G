@@ -16,7 +16,7 @@ Nedan är en kort lista på kurskoder vi läser nu. samt tillhörande tabell
 
 
 
-här ett klassikt exempel på den första koden man skriver oavsett språt
+här ett klassikt exempel på den första koden man skriver oavsett språk
 
 ```javascript
 console.log('Hello World');
