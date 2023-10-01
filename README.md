@@ -23,7 +23,9 @@ console.log('Hello World');
 ```
 
 För att klona detta så skriver man i tex CMD enligt nedan. 
+git clone {URL}
 
+där URL är den folder på github man vill klona. 
 
 
 
